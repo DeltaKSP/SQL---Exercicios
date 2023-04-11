@@ -1,6 +1,3 @@
-REM   Script: SADSA
-REM   ADAS
-
 create table aluno( 
     numero number(2) not null, 
 	nome varchar2(50) not null, 
